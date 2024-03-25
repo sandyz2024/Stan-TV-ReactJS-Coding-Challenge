@@ -1,6 +1,7 @@
-# Stan TV ReactJS Coding Challenge
+## Stan TV ReactJS Coding Challenge
 
-## Overview
+![alt home](./images/home.png)
+### Overview
 
 This project sets up a React application manually, focusing on utilizing Babel and Webpack for custom configurations. Redux is omitted due to the simplicity of the application, which includes only two pages: Home and Program.
 
@@ -50,7 +51,7 @@ Follow these steps to set up the project locally (Note: Node version should be 1
    ```
    Unit test coverage will be displayed in the console.
 
-
+![alt coverage](./images/unit_test_report.png)
 ## Usage
 
 - **Local Development**: Start the development server using `npm start`. This will allow you to view and interact with the app in your browser at `localhost:3000`.
