@@ -19,13 +19,13 @@ Follow these steps to set up the project locally (Note: Node version should be 1
 1. Clone the repository:
 
    ```
-   git clone [repository-url]
+   git clone https://github.com/sandyz2024/Stan-TV-ReactJS-Coding-Challenge.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd [project-name]
+   cd Stan-TV-ReactJS-Coding-Challenge
    ```
 
 3. Install dependencies:
