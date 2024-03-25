@@ -1,0 +1,21 @@
+/* Style guide variables */
+:root {
+  --dark: #0d0d0f;
+  --dark-grey: #7d7d7dfc;
+  --loading-grey: #4e4b4b;
+  --azure: #008dff;
+  --white: #fff;
+  --font: 'Open Sans';
+  --XXSmall: 9px;
+  --XSmall: 10px;
+  --small: 11px;
+  --body: 13px;
+  --title: 16px;
+  --headline: 22px;
+}
+
+body {
+  background-color: var(--dark);
+  font-family: var(--font);
+  color: var(--white);
+}

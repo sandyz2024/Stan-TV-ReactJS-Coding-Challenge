@@ -1,0 +1,14 @@
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+.scannerwork/
+
+# production
+/dist
+
+.vscode/
+
+.history
